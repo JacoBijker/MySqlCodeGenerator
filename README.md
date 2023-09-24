@@ -1,4 +1,4 @@
-# MySqlCodeGenerator
+# MySql Code Generator
 This tool was originally created to remove the monotonous task of creating CRUD stored procedures for MySql Databases.
 
 The tool generates the following stored procedures:
